@@ -1,0 +1,11 @@
+Introduction to Computer Programming Fundamentals
+CSCI 101
+SAL 101
+Name			ID				Average			Grade
+Cano, Chris		***_**_3333			90.00			A
+Johnson, Mary		***_**_8999			0.00			I
+Jordan, Phil		***_**_6666			0.00			F
+Smith, Willy		***_**_4444			81.50			B
+White, Karl		***_**_8666			83.33			B
+
+Class Average for 4 student(s):	63.71

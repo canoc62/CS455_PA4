@@ -1,0 +1,9 @@
+Introduction to Digital Audio
+EE
+RTH 205
+Name			ID				Average			Grade
+Cano, Chris		***_**_5986			90.00			A
+Cuarto, Zach		***_**_7679			85.00			B
+Bendo, Kevin		***_**_5625			0.00			I
+
+Class Average for 2 student(s):	87.50

@@ -1,0 +1,27 @@
+Introduction to Computer Programming Fundamentals
+CSCI 101
+SAL 101
+Name			ID				Average			Grade
+Adams, John		***_**_3333			90.00			A
+Pallones, nilo		***_**_5986			90.00			A
+cano, chris		***_**_5986			90.00			A
+cano, chris		***_**_5986			90.00			A
+cano, chris		***_**_5986			90.00			A
+cano, chris		***_**_5986			90.00			A
+cano, chris		***_**_5986			90.00			A
+White, Karl		***_**_8666			83.33			B
+White, Karl		***_**_8666			83.33			B
+White, Karl		***_**_8666			83.33			B
+White, Karl		***_**_8666			83.33			B
+White, Karl		***_**_8666			83.33			B
+Smith, Willy		***_**_4444			81.50			B
+Smith, Willy		***_**_4444			81.50			B
+Johnson, Mary		***_**_8999			0.00			I
+Johnson, Mary		***_**_8999			0.00			I
+Johnson, Mary		***_**_8999			0.00			I
+Johnson, Mary		***_**_8999			0.00			I
+Jordan, Phil		***_**_6666			0.00			F
+Jordan, Phil		***_**_6666			0.00			F
+Jordan, Phil		***_**_6666			0.00			F
+
+Class Average for 17 student(s):	71.16

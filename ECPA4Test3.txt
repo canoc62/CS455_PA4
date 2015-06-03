@@ -1,0 +1,53 @@
+University of Southern California
+Viterbi School of Engineering
+Electrical Engineering
+-------------------------------------------
+EE 101
+Introduction to Digital Logic
+Units: 3
+Location: RTH 101
+Schedule: MWF 12 PM. - 12:50 P.M.
+Professor: John Smith
+Registered: 5 student(s)
+
+EE 150
+Engineering Computational Methods
+Units: 4
+Location: OHE 100
+Schedule: TTh 10 PM. - 10:50 P.M.
+Professor: Chris Hong
+Registered: 5 student(s)
+
+EE 241
+Applied Linear Algebra for Engineering
+Units: 3
+Location: MHP 203
+Schedule: MWF 1 PM. - 1:50 P.M.
+Professor: Christian Lee
+Registered: 5 student(s)
+
+EE 322
+Introduction to Digital Audio
+Units: 3
+Location: RTH 205
+Schedule: F 10:00 A.M. - 12:50 P.M.
+Professor: Oliver Price
+Registered: 2 student(s)
+
+EE 330
+Electromagnetics 1
+Units: 3
+Location: VHE 202
+Schedule: MWF 12 PM. - 12:50 P.M.
+Professor: Valerie Cano
+Registered: 5 student(s)
+
+EE 423
+Loudspeaker and Sound System Design
+Units: 3
+Location: OHE 200
+Schedule: MWF 12 PM. - 12:50 P.M.
+Professor: Robert Madden
+Registered: 5 student(s)
+
+
